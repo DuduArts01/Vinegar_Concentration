@@ -19,7 +19,7 @@ while(continueLoop):
 
     print("\n")
 
-    mb = float(input("Concentração do Titulante(em gramas): "))
+    mb = float(input("Concentração do Titulante(em mol/L): "))
     # mb is the concentration of the titrant in gramas
 
     print("\n")
